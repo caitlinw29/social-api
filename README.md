@@ -2,7 +2,7 @@
 ## Description
 * Social API is a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
-* See [video demo]()
+* See [video demo](https://watch.screencastify.com/v/l9yoouxjQHnRM6ghb6lS)
 
 ## Installation 
 The application will be invoked by using the following command:
